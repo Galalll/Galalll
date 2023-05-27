@@ -36,7 +36,7 @@
 <img src="assets/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Python-Dark.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="assets/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Node-Js.png" alt="Node-Js" width="40" height="40"/>&nbsp;
 <img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Redux.svg" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Docker.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
