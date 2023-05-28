@@ -29,24 +29,26 @@
 <br>
 <h2 align="left">✨Languages and Tools:</h2>
 <p align="left"> 
-<img src="assets/icons/arcgis-pro.png" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="assets/icons/GDAL.png" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="assets/icons/arcgis-pro.png" alt="ArcGis-Pro" width="40" height="40"/>&nbsp;
+<img src="assets/icons/GDAL.png" alt="GDAL" width="40" height="40"/>&nbsp;
 <img src="assets/icons/HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="assets/icons/CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="assets/icons/Python-Dark.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="assets/icons/C#.png" alt="C#" width="40" height="40"/>&nbsp;
+<img src="assets/icons/ASB.Net_MVC.png" alt="ASB.Net" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Node-Js.png" alt="Node-Js" width="40" height="40"/>&nbsp;
 <img src="assets/icons/React-Dark.svg" alt="React" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Redux.svg" alt="Redux" width="40" height="40"/>&nbsp;
-<img src="assets/icons/Docker.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="assets/icons/Docker.svg" alt="Docker" width="40" height="40"/>&nbsp;
 <img src="assets/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="assets/icons/PostgreSQL-Dark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="assets/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="assets/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Github-Dark.svg" alt="Github" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Git.svg" alt="Git" width="40" height="40"/>&nbsp;
-<img src="assets/icons/AutoCAD-Dark.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
-<img src="assets/icons/C3D.png" alt="Photoshop" width="40" height="40"/>&nbsp;
+<img src="assets/icons/AutoCAD-Dark.svg" alt="AutoCAD" width="40" height="40"/>&nbsp;
+<img src="assets/icons/C3D.png" alt="Civil3D" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Photoshop.svg" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
