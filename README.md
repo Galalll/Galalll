@@ -34,7 +34,7 @@
 <img src="assets/icons/HTML.svg" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="assets/icons/CSS.svg" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="assets/icons/JavaScript.svg" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="assets/icons/C#.png" alt="C#" width="40" height="40"/>&nbsp;
+<img src="assets/icons/C%23.png" alt="C#" width="40" height="40"/>&nbsp;
 <img src="assets/icons/ASB.Net_MVC.png" alt="ASB.Net" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Python-Dark.svg" alt="Python" width="40" height="40"/>&nbsp;
 <img src="assets/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>&nbsp;
