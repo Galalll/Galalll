@@ -12,7 +12,7 @@
 
 - 😄 Passionate about learning & development to reach the target.
 
-- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/19XjzbDVHWPyZAa4bZpZjGgYdaTFnqGTM/view?usp=sharing)
+- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1yF9YGbDvDqF7ZrqwTpple5m7xks-YtAE/view?usp=sharing)
 
 - 📫 How to reach me : **Abdelrahman.M.Galal@Gmail.com**
 <br><br><br>
