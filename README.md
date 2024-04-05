@@ -4,17 +4,17 @@
 <br>
 ## ⚡ Here's Some Fun Facts About Me:
 
-- 💻 I’m a student at **Information Technology Institute**
+- 💻 I’m a **GIS Developer** At [Inovola](https://inovola.co.uk/)
 
-- 💬 I am capable to solve working problems.
-
-- 🌱 My next mission is how to become a **GIS Developer**.
+- 💬 I am capable of solving working problems.
 
 - 😄 Passionate about learning & development to reach the target.
 
-- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1yF9YGbDvDqF7ZrqwTpple5m7xks-YtAE/view?usp=sharing)
+- 🌱 [**UpWork Profile**](https://www.upwork.com/freelancers/~013b5c571e33b14249)
 
-- 📫 How to reach me : **Abdelrahman.M.Galal@Gmail.com**
+- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1P3aZEgePjggfubdRwMd90S4jHnim8rEU/view?usp=sharing)
+
+- 📫 How to reach me: **Abdelrahman.M.Galal@Gmail.com**
 <br><br><br>
 <a href="https://github.com/Galalll/">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Galalll&style=flat-square&label=Profile+Views&color=0891b2" />
