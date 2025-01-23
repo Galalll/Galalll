@@ -12,7 +12,7 @@
 
 - 🌱 [**UpWork Profile**](https://www.upwork.com/freelancers/~013b5c571e33b14249)
 
-- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1JpRGwFmqjG3yFAE2RLaahvwif4D518wN/view?usp=sharing)
+- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1_FsioOafk3azi4j1QoaX8lraqPxmR_H_/view?usp=sharing)
 
 - 📫 How to reach me: **Abdelrahman.M.Galal@Gmail.com**
 <br><br><br>
