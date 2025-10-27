@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi <img align="center" src="assets/images/Hi.gif" width="40">, I'm Abdelrahman Galal</h1>
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F74700&width=435&lines=A+GIS+Developer;ITIan;A+GIS+Analyst" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F74700&width=435&lines=A+Sr.+GIS+Developer;ITIan;" alt="Typing SVG" /></a>
 <br>
 ## ⚡ Here's Some Fun Facts About Me:
 
-- 💻 I’m a **GIS Developer** At [Inovola](https://inovola.co.uk/)
+- 💻 I’m a **Sr. GIS Developer** At [Inovola](https://inovola.co.uk/)
 
 - 💬 I am capable of solving working problems.
 
