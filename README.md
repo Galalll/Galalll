@@ -4,17 +4,17 @@
 <br>
 ## ⚡ Here's Some Fun Facts About Me:
 
-- 💻 I’m a **Sr. GIS Developer** At [Inovola](https://inovola.co.uk/)
+- 💻 I’m a **Sr. GIS Developer** At [egabi Solutions](https://www.egabi.com/)
 
 - 💬 I am capable of solving working problems.
 
 - 😄 Passionate about learning & development to reach the target.
 
-- 🌱 [**UpWork Profile**](https://www.upwork.com/freelancers/~013b5c571e33b14249)
+- 🌱 [**UpWork Profile**](https://www.upwork.com/freelancers/abdelrahmangalal)
 
-- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1_FsioOafk3azi4j1QoaX8lraqPxmR_H_/view?usp=sharing)
+- 📝 Get Details about me : [**Curriculum Vitae**](https://drive.google.com/file/d/1K9TZxv-xAP4B3D7DYVSPtc8Rebo2M0Rj/view?usp=sharing)
 
-- 📫 How to reach me: **Abdelrahman.M.Galal@Gmail.com**
+- 📫 How to reach me: **abdelrahman.m.galal@gmail.com**
 <br><br><br>
 <a href="https://github.com/Galalll/">
    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Galalll&style=flat-square&label=Profile+Views&color=0891b2" />
